@@ -1,0 +1,15 @@
+body {
+    background-color: #dbf6e9;
+    color: #162447;
+
+}
+
+.App {
+    text-align: center;
+
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 57px;
+}
